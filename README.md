@@ -54,3 +54,5 @@ eCommApp/
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
+
+[Ref link to initial workshop guide](https://experience.cloudlabs.ai/#/labguidepreview/2b2f0dcc-60e8-4d8c-854c-418f4e5079e9/1)
