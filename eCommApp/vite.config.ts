@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
-export default defineConfig(({ command, mode }) => ({
+export default defineConfig(({ command }) => ({
   plugins: [react()],
   base: command === 'build' ? '/extremely-simple-ecomm-web-app/' : '/',
   server: {
